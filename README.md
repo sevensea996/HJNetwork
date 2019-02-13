@@ -7,9 +7,6 @@
 [![License](https://img.shields.io/cocoapods/l/HJNetwork.svg?style=flat)](http://cocoapods.org/pods/HJNetwork)
 [![Platform](https://img.shields.io/cocoapods/p/HJNetwork.svg?style=flat)](http://cocoapods.org/pods/HJNetwork)
 
-本来只是想开源自己的网络库方便大家使用,结果被发现代码完全被copy并且用着自己的名义发布,连README都被copy.我已经无话可说了.
-https://github.com/hongdong/HDNetwork 大家可以去提issue支持一下
-我本人是非常欢迎大家使用我的代码进行二次或者多次封装.但是完全copy我的代码在用自己的名义发布,我真心接受不了!
 
 ## 前言
 ```ruby
