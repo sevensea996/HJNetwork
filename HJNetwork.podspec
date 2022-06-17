@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'HJNetwork'
-s.version          = '1.2.4'
+s.version          = '1.2.6'
 s.summary          = 'A short description of HJNetwork.'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ s.author           = { 'Johnny' => 'hujin123@vip.qq.com' }
 s.source           = { :git => 'https://github.com/JohnnyHooo/HJNetwork.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '10.0'
 
 s.source_files = 'HJNetwork/Classes/**/*'
 
@@ -38,8 +38,8 @@ s.source_files = 'HJNetwork/Classes/**/*'
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
 # s.frameworks = 'UIKit', 'MapKit'
-s.dependency 'AFNetworking'
 s.dependency 'YYCache'
+s.dependency 'AFNetworking'
 
 
 
